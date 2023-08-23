@@ -1,7 +1,7 @@
 
-## Emperor of all maladies_
+## 1. Emperor of all maladies_
 ### Rating: 5
-An enjoyable read highlighting the major developments of cancer diagnosis and threapeutics
+An enjoyable read highlighting the major developments of cancer diagnosis and therapeutics
 ### Keywords: 
 Dana farber insititute
 Leukemia 
@@ -34,12 +34,35 @@ Highly recommended read for incipient biologists.
 ### Topic
 
 
-## Life on the edge
+## 4. Life on the edge
 ### Rating 4
 ### Keywords
 ### Topic
 
-## epigenetics revolution
+## 5. Epigenetics revolution
 ### Rating 4
+### Keywords
+### Topic
+
+
+## 6. Power, Sex, Suicide: Mitochondria and the Meaning of Life (Korean ver)
+
+### Rating
+### Keywords
+### Topic
+
+## 7. Endless Forms Most Beautiful: The New Science of Evo Devo (Korean ver)
+### Rating
+### Keywords
+### Topic
+
+## 8. 
+### Rating
+### Keywords
+### Topic
+
+
+##
+### Rating
 ### Keywords
 ### Topic
