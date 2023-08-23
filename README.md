@@ -6,6 +6,6 @@
 
 
 # Reading list
-link: [History] (https://github.com/SeanLee1016/SeanLee1016/blob/main/Reading%20list/History.md)https://github.com/SeanLee1016/SeanLee1016/blob/main/Reading%20list/History.md)
+link: [History](https://github.com/SeanLee1016/SeanLee1016/blob/main/Reading%20list/History.md)https://github.com/SeanLee1016/SeanLee1016/blob/main/Reading%20list/History.md)
 # Activities
 
