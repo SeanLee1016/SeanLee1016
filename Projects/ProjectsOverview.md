@@ -13,11 +13,10 @@ Coursera Epigenetics
 3. Lab particiaption: Metagenomic sequencing of Monotropa rhizosphere
 
 
-## 2022
-1. Service at ROK army as comabat medic
+## 2022-2023
+1. Service at ROK army as medic (Jul 2022 - Jan 2024)
 2. Coursera Chemical biology
 
-## 2023
-
 ## 2024
-1. Korea university bioconference
+1. [Korea university bioconference](https://github.com/SeanLee1016/SeanLee1016/blob/4048ae850416592ad478879b94065aff512109f3/Projects/2024%20KU%20bioconference.md)
+   
