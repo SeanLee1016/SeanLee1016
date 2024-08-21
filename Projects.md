@@ -18,3 +18,6 @@ Coursera Epigenetics
 2. Coursera Chemical biology
 
 ## 2023
+
+## 2024
+1. Korea university bioconference
